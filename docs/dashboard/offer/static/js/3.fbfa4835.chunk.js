@@ -1,2 +1,0 @@
-(this.webpackJsonpnilehome=this.webpackJsonpnilehome||[]).push([[3],{383:function(n,o,t){"use strict";t.r(o),t.d(o,"step1Endpoint",(function(){return r}));var c=t(94),e=t(1),r=function(n){var o=n.offerId,t=n.formId,r="".concat(c.c,"/").concat(t,"/items/").concat(o),i="/".concat(e.f,"/offer?offerId=").concat(t,"&step=1&formId=").concat(t);return{formBaseEndpoint:r,formSubmissionEndpoint:"".concat(r,"/submit"),redirectUrl:i}}}}]);
-//# sourceMappingURL=3.fbfa4835.chunk.js.map
