@@ -1,1 +1,0 @@
-{"version":3,"sources":["Styles.css"],"names":[],"mappings":"AAAA,kBACE,UAAW,CACX,cAAe,CACf,eAAgB,CAChB,cAAe,CACf,wCACF","file":"11.8fa37bc8.chunk.css","sourcesContent":[".wire-instruction {\n  width: 100%;\n  margin-top: 5px;\n  text-align: left;\n  font-size: 16px;\n  font-family: var(--font-family-bigCaslon);\n}\n"]}
