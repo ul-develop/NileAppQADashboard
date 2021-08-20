@@ -299,7 +299,7 @@
    .hidden_content3 {
        font-family: "Gilroy-SemiBold";
        color: #4d4d4d;
-       font-size: 13px;
+       font-size: 14px;
        text-align: left;
        text-indent: 0;
        position: absolute;
@@ -397,7 +397,7 @@
        width: 100%;
        text-align: left;
        margin-top: 40px;
-       font-size: 13px;
+       font-size: 14px;
        margin-left: 14%;
        font-family: "Gilroy-SemiBold";
    }
@@ -418,7 +418,7 @@
    }
 
    .school_name {
-       font-size: 13px;
+       font-size: 14px;
        color: #4D4D4D;
        margin-bottom: 20px;
        font-family: "Gilroy-SemiBold";
@@ -512,7 +512,7 @@
        font-family: 'AvenirMedium';
        color: #818181;
        max-height: 600px;
-       font-size: 13px;
+       font-size: 14px;
        margin-top: 5px;
    }
 
@@ -607,7 +607,7 @@
    }
 
    .dash_column3 {
-       font-size: 13px;
+       font-size: 14px;
        width: 60%;
        line-height: 21px;
        color: #808080;
@@ -646,7 +646,7 @@
 
    .dash_item {
        color: #333333;
-       font-size: 13px;
+       font-size: 14px;
        font-family: "Gilroy-SemiBold";
        margin-bottom: 15px;
    }
@@ -746,7 +746,7 @@
    .prog {
        margin-bottom: 15px;
        color: #333333;
-       font-size: 13px;
+       font-size: 14px;
        font-family: "Gilroy-SemiBold";
    }
 
@@ -1015,7 +1015,7 @@
    .f_btn {
        width: 24%;
        font-family: "Gilroy-SemiBold";
-       font-size: 13px;
+       font-size: 14px;
        cursor: pointer;
        color: #111;
        text-align: center;
@@ -1161,7 +1161,7 @@
        width: 50%;
        font-family: "Gilroy-SemiBold";
        color: #444;
-       font-size: 13px;
+       font-size: 14px;
    }
 
    .filterss {
@@ -1169,7 +1169,7 @@
        width: 100%;
        margin-top: 20px;
        font-family: "Gilroy-SemiBold";
-       font-size: 13px;
+       font-size: 14px;
        background: white;
        padding-bottom: 60px;
        z-index: 10;
@@ -1284,7 +1284,7 @@
        width: 20%;
        text-align: left;
        vertical-align: top;
-       font-size: 13px;
+       font-size: 14px;
        font-family: "Gilroy-SemiBold";
    }
 
@@ -1310,7 +1310,7 @@
        text-align: left;
        font-family: "Gilroy-SemiBold";
        color: #444;
-       font-size: 13px;
+       font-size: 14px;
        vertical-align: top;
    }
 
@@ -1617,7 +1617,7 @@
    }
 
    .hiw_sub {
-       font-size: 13px;
+       font-size: 14px;
        line-height: 16px;
        color: #333;
        max-width: 320px;
@@ -2594,7 +2594,7 @@
        border: none;
        border-bottom: 1px solid #808080;
        font-family: "Gilroy-SemiBold";
-       font-size: 13px;
+       font-size: 14px;
        box-sizing: border-box;
        padding-bottom: 10px;
    }
@@ -2618,7 +2618,7 @@
        padding-bottom: 15px;
        border: 2px solid #111;
        font-family: "Gilroy-SemiBold";
-       font-size: 13px;
+       font-size: 14px;
        color: #111;
        width: 190px;
        display: table;
@@ -2633,7 +2633,7 @@
        padding-bottom: 15px;
        border: 2px solid white;
        font-family: "Gilroy-SemiBold";
-       font-size: 13px;
+       font-size: 14px;
        color: white;
        position: absolute;
        bottom: 30px;
@@ -2650,7 +2650,7 @@
        padding-top: 15px;
        padding-bottom: 15px;
        font-family: "Gilroy-SemiBold";
-       font-size: 13px;
+       font-size: 14px;
        color: white;
        width: 190px;
        border: 2px solid white;
@@ -2668,7 +2668,7 @@
        padding-top: 15px;
        padding-bottom: 15px;
        font-family: "Gilroy-SemiBold";
-       font-size: 13px;
+       font-size: 14px;
        color: white;
        width: 140px;
        background: #44b07b;
@@ -2689,7 +2689,7 @@
    .learn_more4 {
        text-align: center;
        font-family: "Gilroy-SemiBold";
-       font-size: 13px;
+       font-size: 14px;
        margin-bottom: 30px;
        color: white;
        display: block;
@@ -2706,7 +2706,7 @@
        padding-bottom: 12px;
        padding-right: 25px;
        font-family: "Gilroy-SemiBold";
-       font-size: 13px;
+       font-size: 14px;
        display: table;
        margin-top: 25px;
        cursor: pointer;
@@ -2720,7 +2720,7 @@
        padding-top: 10px;
        padding-bottom: 10px;
        font-family: "Gilroy-SemiBold";
-       font-size: 13px;
+       font-size: 14px;
        color: white;
        width: 190px;
        border: 2px solid white;
@@ -2768,7 +2768,7 @@
        padding-bottom: 30px;
        text-align: center;
        color: white;
-       font-size: 13px;
+       font-size: 14px;
        font-family: "Gilroy-SemiBold";
    }
 
@@ -3058,7 +3058,7 @@
 
    .pop_enter div.wpcf7-response-output,
    div.wpcf7-acceptance-missing {
-       font-size: 13px;
+       font-size: 14px;
        line-height: 16px;
    }
 
@@ -3079,7 +3079,7 @@
        transform: translate(-50%, -50%);
        text-align: left;
        font-family: 'AvenirMedium';
-       font-size: 13px;
+       font-size: 14px;
        line-height: 15px;
        color: #808080;
    }
@@ -3114,7 +3114,7 @@
    .inputer2 {
        width: 100%;
        font-family: "Gilroy-SemiBold";
-       font-size: 13px;
+       font-size: 14px;
        color: #4d4d4d;
        margin-top: 20px;
    }
@@ -3142,7 +3142,7 @@
        border: none;
        border-bottom: 1px solid #808080;
        font-family: "Gilroy-SemiBold";
-       font-size: 13px;
+       font-size: 14px;
        padding-bottom: 10px;
    }
 
@@ -3269,7 +3269,7 @@
    .m_logo #badge {
        color: white;
        font-family: "Gilroy-SemiBold";
-       font-size: 13px;
+       font-size: 14px;
        font-weight: 500;
        cursor: pointer;
    }
@@ -3570,7 +3570,7 @@
        color: #111;
        border: 2px solid #111;
        font-family: "Gilroy-SemiBold";
-       font-size: 13px;
+       font-size: 14px;
    }
 
    .search_btn {
@@ -3600,7 +3600,7 @@
        color: #4d4d4d;
        border: 1.5px solid #808080;
        font-family: "Gilroy-SemiBold";
-       font-size: 13px;
+       font-size: 14px;
    }
 
    .next_btn2 .lm_arrow {
@@ -3616,7 +3616,7 @@
        border: 1.5px solid #44b07b;
        background: #44b07b;
        font-family: "Gilroy-SemiBold";
-       font-size: 13px;
+       font-size: 14px;
    }
 
    .prev_btn {
@@ -3627,7 +3627,7 @@
        color: #111;
        border: 2px solid #111;
        font-family: "Gilroy-SemiBold";
-       font-size: 13px;
+       font-size: 14px;
    }
 
    .slide {
@@ -3683,7 +3683,7 @@
        background: #44b07b;
        color: white;
        padding: 8px 18px;
-       font-size: 13px;
+       font-size: 14px;
    }
 
    .seemore_header {
@@ -3710,7 +3710,7 @@
 
    .note {
        text-align: left;
-       font-size: 13px;
+       font-size: 14px;
        width: 48%;
        display: inline-block;
        font-family: 'AvenirMedium';
@@ -3739,7 +3739,7 @@
        background: #44b07b;
        border: 2px solid #44b07b;
        font-family: "Gilroy-SemiBold";
-       font-size: 13px;
+       font-size: 14px;
    }
 
    .send_btn {
@@ -3756,7 +3756,7 @@
        vertical-align: top;
        background: #44b07b;
        font-family: "Gilroy-SemiBold";
-       font-size: 13px;
+       font-size: 14px;
    }
 
    .anotherform {
@@ -3788,7 +3788,7 @@
        vertical-align: top;
        background: #44b07b;
        font-family: "Gilroy-SemiBold";
-       font-size: 13px;
+       font-size: 14px;
    }
 
    .clearer {
@@ -4056,7 +4056,7 @@
        margin-left: -35px;
        margin-top: 20px;
        font-family: "Gilroy-SemiBold";
-       font-size: 13px;
+       font-size: 14px;
        background: white;
        padding-bottom: 60px;
        z-index: 10;
@@ -4178,7 +4178,7 @@
 
    .filt_headline {
        font-family: 'AvenirMedium';
-       font-size: 13px;
+       font-size: 14px;
        color: #111;
        margin-top: 10px;
        margin-bottom: 20px;
@@ -4272,7 +4272,7 @@
 
    .filter {
        font-family: "Gilroy-SemiBold";
-       font-size: 13px;
+       font-size: 14px;
        margin-top: 10px;
        width: 100%;
        text-align: center;
@@ -4281,7 +4281,7 @@
 
    .filter2 {
        font-family: "Gilroy-SemiBold";
-       font-size: 13px;
+       font-size: 14px;
        padding-bottom: 15px;
        margin-top: 15px;
        width: 100%;
@@ -4304,7 +4304,7 @@
        background: #44b07b;
        border: 2px solid #44b07b;
        font-family: "Gilroy-SemiBold";
-       font-size: 13px;
+       font-size: 14px;
    }
 
    .map_btn:hover {
@@ -4324,7 +4324,7 @@
        background: #44b07b;
        border: 2px solid #44b07b;
        font-family: "Gilroy-SemiBold";
-       font-size: 13px;
+       font-size: 14px;
    }
 
    .map_btn2:hover {
@@ -4394,7 +4394,7 @@
        background: #44b07b;
        color: white;
        padding: 5px 15px;
-       font-size: 13px;
+       font-size: 14px;
    }
 
    .t_info {
@@ -4450,7 +4450,7 @@
        margin-top: 5px;
        text-align: right;
        width: 130px;
-       font-size: 13px;
+       font-size: 14px;
    }
 
    .cal_dates {
@@ -4575,7 +4575,7 @@
        font-family: 'AvenirMedium';
        padding-top: 55px;
        padding-bottom: 50px;
-       font-size: 13px;
+       font-size: 14px;
        position: relative;
        margin-bottom: 40px;
        color: #111;
@@ -4817,7 +4817,7 @@
    }
 
    .b_texts {
-       font-size: 15.2px;
+       font-size: 14px;
        line-height: 26px;
        /* max-width: 600px; */
        color: #808080;
@@ -4844,13 +4844,13 @@
 
    .tab2 {
        font-family: 'AvenirMedium';
-       font-size: 13px;
+       font-size: 14px;
    }
 
    .form_inputs {
        font-family: 'AvenirMedium';
        color: #111;
-       font-size: 13px;
+       font-size: 14px;
        margin-bottom: 40px;
        width: 100%;
    }
@@ -4865,7 +4865,7 @@
        color: #111;
        margin-top: 25px;
        text-align: left;
-       font-size: 13px;
+       font-size: 14px;
        margin-bottom: 0;
        width: 100%;
        margin-left: auto;
@@ -4875,7 +4875,7 @@
    .form_inputs_c {
        font-family: 'AvenirMedium';
        color: #111;
-       font-size: 13px;
+       font-size: 14px;
        margin-top: 25px;
        margin-bottom: 20px;
        width: 100%;
@@ -4963,7 +4963,7 @@
        padding-top: 5px;
        padding-bottom: 5px;
        font-family: 'AvenirMedium';
-       font-size: 13px;
+       font-size: 14px;
        padding-left: 0;
        padding-right: 0;
    }
@@ -5008,7 +5008,7 @@
        margin-left: auto;
        margin-right: auto;
        font-family: 'AvenirMedium';
-       font-size: 13px;
+       font-size: 14px;
        color: #111;
        text-align: center;
        flex-wrap: wrap;
@@ -5169,7 +5169,7 @@
 
    .r_info {
        width: 48%;
-       font-size: 13px;
+       font-size: 14px;
        color: #808080;
        font-family: "Gilroy-SemiBold";
        margin-bottom: 15px;
@@ -5222,7 +5222,7 @@
        top: 30px;
        margin-left: -70px;
        z-index: 200;
-       font-size: 13px;
+       font-size: 14px;
        padding: 12px 30px;
    }
 
@@ -5270,7 +5270,7 @@
 
    .about_infos {
        font-family: "Gilroy-SemiBold";
-       font-size: 13px;
+       font-size: 14px;
        color: #4d4d4d;
    }
 
@@ -5287,7 +5287,7 @@
    }
 
    .view_more {
-       font-size: 13px;
+       font-size: 14px;
        color: #44b07b;
        margin-top: 20px;
        cursor: pointer;
@@ -5362,7 +5362,7 @@
        text-align: left;
        font-family: "Gilroy-SemiBold";
        color: #4d4d4d;
-       font-size: 13px;
+       font-size: 14px;
        line-height: 25px;
        margin-bottom: 10px;
        border: 3px solid white;
@@ -5409,7 +5409,7 @@
        margin-left: auto;
        font-family: 'AvenirMedium';
        color: #111;
-       font-size: 13px;
+       font-size: 14px;
        margin-right: auto;
        display: flex;
        flex-wrap: wrap;
@@ -5649,7 +5649,7 @@
        text-indent: 10px;
        color: #111;
        font-family: 'AvenirMedium';
-       font-size: 13px;
+       font-size: 14px;
        border: none;
        -webkit-appearance: none;
    }
@@ -5664,7 +5664,7 @@
        vertical-align: top;
        background: #44b07b;
        font-family: "Gilroy-SemiBold";
-       font-size: 13px;
+       font-size: 14px;
    }
 
    .send_btn_alts:hover {
@@ -5678,7 +5678,7 @@
        flex-wrap: wrap;
        justify-content: space-between;
        font-family: "Gilroy-SemiBold";
-       font-size: 13px;
+       font-size: 14px;
        color: #010101;
        line-height: 15px;
    }
@@ -5770,7 +5770,7 @@
    }
 
    .story_b_info {
-       font-size: 13px;
+       font-size: 14px;
        color: #333;
        font-weight: bold;
        margin-top: 15px;
@@ -5804,7 +5804,7 @@
        right: 2.5%;
        top: 0;
        font-family: "Gilroy-SemiBold";
-       font-size: 13px;
+       font-size: 14px;
        color: #818181;
        margin-top: 0px;
        cursor: pointer;
@@ -5986,7 +5986,7 @@
 
    .pop_info {
        width: 33%;
-       font-size: 13px;
+       font-size: 14px;
        line-height: 16px;
        color: #606161;
        font-family: 'AvenirMedium';
@@ -6003,7 +6003,7 @@
        font-family: "Gilroy-SemiBold";
        border: none;
        width: 100%;
-       font-size: 13px;
+       font-size: 14px;
        border-bottom: 1px solid #666;
        padding-bottom: 10px;
        -webkit-appearance: none;
@@ -6044,7 +6044,7 @@
        outline: none;
        background: transparent;
        margin-top: 15px !important;
-       font-size: 13px;
+       font-size: 14px;
        color: #20b574;
    }
 
@@ -6063,7 +6063,7 @@
        z-index: 10;
        left: 50%;
        transform: translate(-50%, 0);
-       font-size: 13px;
+       font-size: 14px;
        font-family: "Gilroy-SemiBold";
        margin-top: 10px;
        color: #111;
@@ -6215,7 +6215,7 @@
    }
 
    .c_infoss {
-       font-size: 13px;
+       font-size: 14px;
        font-family: 'AvenirMedium';
        color: #999999;
        line-height: 19px;
@@ -6266,7 +6266,7 @@
            line-height: 25px;
        }
        .center_sections {
-           font-size: 13px;
+           font-size: 14px;
            line-height: 16px;
        }
        .main_section {
@@ -6296,7 +6296,7 @@
        }
        .team_block {
            width: 45%;
-           font-size: 13px;
+           font-size: 14px;
            line-height: 16px;
            margin-bottom: 140px;
        }
@@ -6311,7 +6311,7 @@
        .abt_header {
            max-width: 550px;
            top: 70px;
-           font-size: 13px;
+           font-size: 14px;
            line-height: 16px;
        }
        .abt_section2 {
@@ -6324,7 +6324,7 @@
        .abt_2_left {
            padding: 50px;
            left: -30%;
-           font-size: 13px;
+           font-size: 14px;
            line-height: 16px;
            width: 45%;
        }
@@ -6347,12 +6347,12 @@
        .abt_blocks {
            width: 90%;
            max-width: 1300px;
-           font-size: 13px;
+           font-size: 14px;
            line-height: 16px;
        }
        .abt_blocks_center {
            max-width: 1300px;
-           font-size: 13px;
+           font-size: 14px;
            line-height: 16px;
        }
        .hiw_text {
@@ -6382,7 +6382,7 @@
        }
        .abt_4_right {
            width: 47%;
-           font-size: 13px;
+           font-size: 14px;
            line-height: 16px;
        }
        .abt_4_texts {
@@ -6448,7 +6448,7 @@
        .abt_section_6 {
            margin-top: 120px;
            max-width: 800px;
-           font-size: 13px;
+           font-size: 14px;
            line-height: 16px;
        }
        .abt_tabs {
@@ -6475,7 +6475,7 @@
            width: 90%;
            margin-top: 140px;
            max-width: 1000px;
-           font-size: 13px;
+           font-size: 14px;
            line-height: 16px;
        }
        .img_header2 {
@@ -6557,11 +6557,11 @@
        .frame_text {
            width: 140%;
            right: -130px;
-           font-size: 13px;
+           font-size: 14px;
            line-height: 15px;
        }
        .learn_more {
-           font-size: 13px;
+           font-size: 14px;
        }
        .main_texts {
            left: 50%;
@@ -6570,14 +6570,14 @@
        }
        .m_texts {
            width: 75%;
-           font-size: 13px;
+           font-size: 14px;
            line-height: 17px;
        }
        .login_menu {
-           font-size: 13px;
+           font-size: 14px;
        }
        .menu {
-           font-size: 13px;
+           font-size: 14px;
        }
        .d_header {
            font-size: 42px;
@@ -7333,7 +7333,7 @@
            width: 100%;
            margin-left: auto;
            margin-right: auto;
-           font-size: 13px;
+           font-size: 14px;
            line-height: 18px;
        }
        .main_img img {
@@ -7546,7 +7546,7 @@
            flex-wrap: wrap;
            justify-content: space-between;
            font-family: "Gilroy-SemiBold";
-           font-size: 13px;
+           font-size: 14px;
            line-height: 16px;
            width: 70%;
            margin-left: auto;
