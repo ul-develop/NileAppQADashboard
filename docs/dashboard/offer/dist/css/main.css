@@ -4967,6 +4967,12 @@
        padding-left: 0;
        padding-right: 0;
    }
+   .text_inputer {
+     -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+     -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+     box-sizing: border-box;         /* Opera/IE 8+ */
+     padding: 14px 5px;
+   }
 
    .thirds {
        width: 26%;
