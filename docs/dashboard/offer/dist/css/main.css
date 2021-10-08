@@ -7427,10 +7427,6 @@
            position: absolute;
            margin-top: 40px;
        }
-       body,
-       html {
-           overflow-x: hidden !important;
-       }
        .divi_block {
            width: 48%;
            margin-bottom: 60px;
