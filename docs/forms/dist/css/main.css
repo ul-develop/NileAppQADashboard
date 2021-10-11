@@ -4958,6 +4958,7 @@
        height: 16px;
        width: 100%;
        color: #808080;
+       -webkit-text-fill-color: #808080;
        margin-bottom: 0px;
        text-indent: 10px;
        padding-top: 5px;
