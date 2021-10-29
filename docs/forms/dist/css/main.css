@@ -3427,8 +3427,8 @@ div.wpcf7-acceptance-missing {
 .sorry {
   font-family: 'AvenirMedium';
   font-size: 14px;
-  margin-top: 20px;
-  color: #333;
+  margin-bottom: 16px;
+  color: var(--red);
 }
 
 .stickit {
