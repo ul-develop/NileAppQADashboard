@@ -1,2 +1,0 @@
-(this.webpackJsonpnilehome=this.webpackJsonpnilehome||[]).push([[0],{348:function(e,t,n){"use strict";n.r(t);var a=n(0),o=n.n(a),i=n(319),r=n(73),s=n(1);t.default=function(e){var t=e.offerId,n=e.formId,a=Object(r.h)();return o.a.createElement(i.a,{itemId:t,formId:n,saveExitAction:function(){a.push({path:s.g.dashboard})}})}}}]);
-//# sourceMappingURL=0.d8ac302f.chunk.js.map
