@@ -2800,7 +2800,9 @@ input[type='radio'] {
 .footer {
   width: 100%;
   background: #161616;
-  position: relative;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
   z-index: 101;
   padding-top: 30px;
   padding-bottom: 30px;
